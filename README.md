@@ -1,6 +1,8 @@
-# calculator_luas
+# calculator_volmue_bangun_ruang
 
 A new Flutter project.
+Name : Satya Akmal Dzaki Muammar
+NIM : L200230164
 
 ## Getting Started
 
