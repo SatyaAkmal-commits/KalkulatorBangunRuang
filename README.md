@@ -1,8 +1,8 @@
-# calculator_volmue_bangun_ruang
+# Kalkulator Volume Bangun Ruang
 
 A new Flutter project.
-Name : Satya Akmal Dzaki Muammar
-NIM : L200230164
+- Name : Satya Akmal Dzaki Muammar
+- NIM : L200230164
 
 ## Getting Started
 
